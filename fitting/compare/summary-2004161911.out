@@ -1,0 +1,125 @@
+out-April-190114.txt:working on data 20120206_memory012G.mat
+out-April-190214.txt:working on data 20110210_memory003G.mat
+out-April-190843.txt:working on data 20110920_memory002.mat
+out-April-191750.txt:working on data 20110923_memory004.mat
+out-April-191832.txt:working on data 20110929_memory003G.mat
+out-April-191911.txt:working on data 20110929_memory013G.mat
+out-April-192122.txt:working on data 20111005_memory005G.mat
+out-April-200112.txt:working on data 20111007_memory003.mat
+out-April-200214.txt:working on data 20111007_memory011G.mat
+out-April-200300.txt:working on data 20111011_memory005.mat
+out-April-201022.txt:working on data 20111012_memory008G.mat
+out-April-201056.txt:working on data 20111014_memory003.mat
+out-April-201130.txt:working on data 20111018_memory001G.mat
+out-April-201209.txt:working on data 20111018_memory005G.mat
+out-April-201236.txt:working on data 20111024_memory003.mat
+out-April-201308.txt:working on data 20120128_memory005G.mat
+out-April-201331.txt:working on data 20120131_memory005G.mat
+out-April-201350.txt:working on data 20120208_memory020.mat
+out-April-201411.txt:working on data 20120214_memory006.mat
+out-April-201428.txt:working on data 20120311_memory009.mat
+out-April-201451.txt:working on data 20120315_memory005G.mat
+out-April-201517.txt:working on data 20120315_memory009.mat
+out-April-201539.txt:working on data 20120328_memory009.mat
+out-April-201615.txt:working on data 20120329_memory002G.mat
+
+190114.txt:r with traditional 0.934557
+190114.txt:r with bilinear    0.913891
+190214.txt:r with traditional 0.804443
+190214.txt:r with bilinear    0.743093
+190843.txt:r with traditional 0.519457
+190843.txt:r with bilinear    0.385962
+191750.txt:r with traditional 0.787627
+191750.txt:r with bilinear    0.751184
+191832.txt:r with traditional 0.855618
+191832.txt:r with bilinear    0.836372
+191911.txt:r with traditional 0.594486
+191911.txt:r with bilinear    0.561099
+192122.txt:r with traditional 0.669048
+192122.txt:r with bilinear    0.588057
+200112.txt:r with traditional 0.658289
+200112.txt:r with bilinear    0.621509
+200214.txt:r with traditional 0.867747
+200214.txt:r with bilinear    0.858974
+200300.txt:r with traditional 0.430484
+200300.txt:r with bilinear    0.376897
+201022.txt:r with traditional 0.700610
+201022.txt:r with bilinear    0.666483
+201056.txt:r with traditional 0.538447
+201056.txt:r with bilinear    0.508510
+201130.txt:r with traditional 0.679260
+201130.txt:r with bilinear    0.659273
+201209.txt:r with traditional 0.707967
+201209.txt:r with bilinear    0.699215
+201236.txt:r with traditional 0.608645
+201236.txt:r with bilinear    0.547582
+201308.txt:r with traditional 0.646722
+201308.txt:r with bilinear    0.633610
+201331.txt:r with traditional 0.627143
+201331.txt:r with bilinear    0.490488
+201350.txt:r with traditional 0.674322
+201350.txt:r with bilinear    0.669726
+201411.txt:r with traditional 0.679231
+201411.txt:r with bilinear    0.610824
+201428.txt:r with traditional 0.502167
+201428.txt:r with bilinear    0.415264
+201451.txt:r with traditional 0.605823
+201451.txt:r with bilinear    0.607065
+201517.txt:r with traditional 0.509914
+201517.txt:r with bilinear    0.468842
+201539.txt:r with traditional 0.643455
+201539.txt:r with bilinear    0.581299
+201615.txt:r with traditional 0.309004
+201615.txt:r with bilinear    0.148705
+
+traditional
+190114  0.934557
+190214  0.804443
+190843  0.519457
+191750  0.787627
+191832  0.855618
+191911  0.594486
+192122  0.669048
+200112  0.658289
+200214  0.867747
+200300  0.430484
+201022  0.700610
+201056  0.538447
+201130  0.679260
+201209  0.707967
+201236  0.608645
+201308  0.646722
+201331  0.627143
+201350  0.674322
+201411  0.679231
+201428  0.502167
+201451  0.605823
+201517  0.509914
+201539  0.643455
+201615  0.309004
+
+bilinear
+190114  0.913891
+190214  0.743093
+190843  0.385962
+191750  0.751184
+191832  0.836372
+191911  0.561099
+192122  0.588057
+200112  0.621509
+200214  0.858974
+200300  0.376897
+201022  0.666483
+201056  0.508510
+201130  0.659273
+201209  0.699215
+201236  0.547582
+201308  0.633610
+201331  0.490488
+201350  0.669726
+201411  0.610824
+201428  0.415264
+201451  0.607065
+201517  0.468842
+201539  0.581299
+201615  0.148705

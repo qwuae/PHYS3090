@@ -1,0 +1,6 @@
+# this is an output folder, we dont save anything
+*.zip
+*.mat
+*.txt
+*.fig
+*.out
